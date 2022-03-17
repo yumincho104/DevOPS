@@ -27,3 +27,14 @@
 - 개발 분야에 관심이 많은 사람
 - 리눅스, 운영 체제에 대해서 배우고 싶은 사람
 - 인공지능, 데이터 등 GPU, DB를 사용하여 연구하고 싶은 학생
+
+
+## 풀 리퀘스트
+``` c++
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+  printf("Pull Request Test");
+  return 0;
+}
+```
